@@ -60,6 +60,9 @@ a {
 .tune-up-page {
   width: 100%;
   min-width: 0;
+  min-height: 0;
+  height: auto;
+
   overflow-x: clip;
 
   background: var(--white);
