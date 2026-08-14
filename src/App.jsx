@@ -170,7 +170,7 @@ function App() {
 
         <div className="page-shell hero-highlights">
           <span className="hero-highlight">Open to all!</span>
-          <span className="hero-highlight">Goalies are free</span>
+          <span className="hero-highlight">Goalies are free!</span>
           <span className="hero-highlight">
             Coached by Wings Arena Professional Coaches
           </span>
