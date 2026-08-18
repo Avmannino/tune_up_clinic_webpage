@@ -184,11 +184,6 @@ function App() {
             <p className="section-eyebrow">September 5–7</p>
 
             <h2>On-Ice Schedule</h2>
-
-            <p>
-              Both groups skate at the same time each morning throughout
-              Labor Day weekend.
-            </p>
           </div>
 
           {/* DESKTOP / LARGE TABLET */}

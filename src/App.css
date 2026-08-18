@@ -584,20 +584,6 @@ a {
   text-transform: uppercase;
 }
 
-.section-heading > p:last-child {
-  width: 100%;
-  white-space: nowrap;
-
-  margin: 16px 0 0;
-
-  color: var(--muted);
-
-  font-size: clamp(0.88rem, 1vw, 0.95rem);
-  font-weight: 500;
-
-  line-height: 1.72;
-}
-
 /* =========================================================
    SCHEDULE
    ========================================================= */
@@ -1647,13 +1633,8 @@ a {
     font-size: clamp(2.6rem, 12vw, 3.6rem);
   }
 
-  .section-heading > p:last-child,
   .registration-description {
     font-size: 0.86rem;
-  }
-
-  .section-heading > p:last-child {
-    white-space: normal;
   }
 
   .mobile-day-header {
